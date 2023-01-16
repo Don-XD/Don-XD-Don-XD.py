@@ -188,7 +188,7 @@ class Login:
 
 		else:
 
-			exit(prints(Panel(f"""{M2}🙏 maaf fitur ini belum tersedia, silahkan menunggu update selanjutnya""",width=80,style=f"{color_panel}")))
+			exit(prints(Panel(f"""{M2}🙏 maaf fitur ini belum tersedia, silahkan menunggu update selanjutnya ya tod""",width=80,style=f"{color_panel}")))
 
 			
 
